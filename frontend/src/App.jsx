@@ -8,6 +8,7 @@ import ResetPassword from './pages/ResetPassword';   // New Import
 import './App.css';
 
 function App() {
+  
   const { user, logout, loading } = useContext(AuthContext);
   
   // 1. Updated state to handle multiple authentication views
