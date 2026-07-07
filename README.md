@@ -26,7 +26,7 @@
 ### Backend
 * **Node.js & Express**: High-performance RESTful API.
 * **Sequelize ORM**: Object-relational mapping for MySQL.
-* **MySQL**: Reliable persistent data storage.
+* **MongoDb**: Reliable persistent data storage.
 * **JWT & Bcrypt**: Secure stateless authentication and data protection.
 
 ---
